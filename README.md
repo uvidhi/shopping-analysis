@@ -12,8 +12,6 @@ For this project, I used the following Python libraries:
 * NumPy
 * Matplotlib
 * Seaborn
-* ZipFile
-* OS
 
 These libraries were used for data processing, visualization, file extraction, and file management tasks.
 
