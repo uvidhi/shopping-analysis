@@ -63,6 +63,19 @@ Created different visualizations to better understand the dataset:
 
 During the analysis, I found that most products had ratings above 4.0, indicating generally positive customer satisfaction. Products with a higher number of reviews were usually more popular, highlighting the importance of customer feedback. Discounts played a major role in reducing product prices and attracting customers. I also observed that some categories consistently performed better than others in terms of ratings and popularity.
 
+
+## Project Structure
+
+shopping-analysis/
+│
+├── data/
+│   └── combined_dataset.csv
+│
+├── notebook/
+│   └── analysis.ipynb
+│
+└── README.md
+
 ## Files Included
 
 * `combined_dataset.csv` – Dataset used for analysis
@@ -72,3 +85,4 @@ During the analysis, I found that most products had ratings above 4.0, indicatin
 ## Conclusion
 
 This project helped me strengthen my understanding of data analysis using Python. Through this work, I learned how to clean data, create meaningful features, visualize patterns, and extract useful insights from a real-world shopping dataset.
+
